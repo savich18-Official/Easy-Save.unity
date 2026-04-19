@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7b6cf396-0d09-4d36-ba6e-a6d5aea0390f" width="344" height="743" alt="Easy Save Unity Plugin" />
-</p>
 
 <h1 align="center">
    EASY SAVE 
