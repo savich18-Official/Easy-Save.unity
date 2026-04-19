@@ -24,3 +24,18 @@
 <p align="center">
   <sub>🔑 Ключ: <code>tf36dbf</code> • Ссылка скопирована в кнопку выше</sub>
 </p>
+
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <a href="https://assetstore.unity.com/packages/tools/utilities/easy-save-the-complete-save-game-data-serializer-system-768">
+    <img src="https://img.shields.io/badge/🏪%20ОФИЦИАЛЬНЫЙ%20АССЕТ-Unity%20Asset%20Store-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=808080&color=000000" alt="Официальный ассет Easy Save" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>⭐ Easy Save — The Complete Save Game & Data Serializer System</sub><br>
+  <sub>💰 <b>$29.50</b> <s>$59</s> (-50%) • 🔧 Версия 3.5.26 • 📅 11 апр. 2026</sub>
+</p>
