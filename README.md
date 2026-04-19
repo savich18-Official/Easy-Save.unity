@@ -1,10 +1,27 @@
-# Easy-Save.unity
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7b6cf396-0d09-4d36-ba6e-a6d5aea0390f" width="344" height="743" alt="Easy Save Unity Plugin" />
+</p>
 
-The plugin folder with the Unity asset is ready to use.  
-Download it and move it to your project.
+<h1 align="center">
+   EASY SAVE 
+</h1>
 
-<img width="344" height="743" alt="Easy Save Unity Screenshot" src="https://github.com/user-attachments/assets/7b6cf396-0d09-4d36-ba6e-a6d5aea0390f" />
+<p align="center">
+  <i>The plugin folder with the Unity asset is ready to use.</i><br>
+  <i>Download it and move it to your project.</i>
+</p>
 
-**Download:**  
-- **Key:** `tf36dbf`  
-- **Link:** [https://fex.net/ru/s/tf36dbf](https://fex.net/ru/s/tf36dbf)
+<br>
+<br>
+<br>
+<br>
+
+<p align="center">
+  <a href="https://fex.net/ru/s/tf36dbf">
+    <img src="https://img.shields.io/badge/⬇️%20СКАЧАТЬ%20ПЛАГИН-tf36dbf-4B0082?style=for-the-badge&logo=unity&logoColor=white&labelColor=000000&color=8A2BE2" alt="Скачать Easy Save" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>🔑 Ключ: <code>tf36dbf</code> • Ссылка скопирована в кнопку выше</sub>
+</p>
